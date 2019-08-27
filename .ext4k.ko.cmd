@@ -1,0 +1,1 @@
+cmd_/home/junheejang/avatar/ext4k/ext4k.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/junheejang/avatar/ext4k/ext4k.ko /home/junheejang/avatar/ext4k/ext4k.o /home/junheejang/avatar/ext4k/ext4k.mod.o
